@@ -6,3 +6,4 @@ var arrayItems = ["Apple", "Banana", "Cherry", "Dragonfruit", "Pear", "Watermelo
  * CREATE EVENTLISTENER / FUNCTIONS AND LOGIC
  * 
  */
+
